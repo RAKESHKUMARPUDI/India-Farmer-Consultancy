@@ -1,4 +1,4 @@
-# BHARATH KISAN SEVA (Crop_Prediction)
+# BHARATH FARMER CONSULTANCY (Crop_Prediction)
 [![ApnaAnaaj](https://github.com/rahuldkjain/Crop_Prediction/blob/master/static/ApnaAnaajLogo.png)](https://github.com/rahuldkjain/Crop_Prediction)
 
 ## Features
@@ -29,14 +29,13 @@ $ python app.py
 ```
 
 ## Screenshots
-[![ApnaAnaaj](https://github.com/rahuldkjain/Crop_Prediction/blob/master/static/Screenshot%20(23).png)](https://github.com/rahuldkjain/Crop_Prediction)
 [![ApnaAnaaj](https://github.com/rahuldkjain/Crop_Prediction/blob/master/static/Screenshot%20(24).png)](https://github.com/rahuldkjain/Crop_Prediction)
 [![ApnaAnaaj](https://github.com/rahuldkjain/Crop_Prediction/blob/master/static/Screenshot%20(25).png)](https://github.com/rahuldkjain/Crop_Prediction)
 [![ApnaAnaaj](https://github.com/rahuldkjain/Crop_Prediction/blob/master/static/Screenshot%20(26).png)](https://github.com/rahuldkjain/Crop_Prediction)
 [![ApnaAnaaj](https://github.com/rahuldkjain/Crop_Prediction/blob/master/static/Screenshot%20(27).png)](https://github.com/rahuldkjain/Crop_Prediction)
 
 ## Video Demonstration
-[ApnaAnaaj](https://youtu.be/UahZf4VaCTE)
+[BHARATH FARMER CONSULTANCY](https://youtu.be/UahZf4VaCTE)
 
 ## Designed & Developed with :sparkling_heart: by
 - K SAI KUMAR
