@@ -39,7 +39,8 @@ $ python app.py
 [ApnaAnaaj](https://youtu.be/UahZf4VaCTE)
 
 ## Designed & Developed with :sparkling_heart: by
-* [SAI](https://rahuldkjain.github.io)
-* [Pratyush Garg](https://github.com/Pratyush2710)
-* [Somya Jain](https://github.com/jainsomya972)
-* [Abhay Gupta](https://github.com/abhaygupta5)
+- K SAI KUMAR
+- VJR MANIKANTA
+- RAKESHKUMAR PUDI
+- SHAIK SUFIYAN
+- BHAVANI SIVA PRASAD
