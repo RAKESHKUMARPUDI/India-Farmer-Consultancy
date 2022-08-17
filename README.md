@@ -1,5 +1,5 @@
 # BHARATH FARMER CONSULTANCY (Crop_Prediction)
-[![BHARATH FARMER CONSULTANCY](https://github.com/RAKESHKUMARPUDI/India-Farmer-Consultancy/blob/master/static/kisan.jpg)](https://github.com/RAKESHKUMARPUDI/Crop_Prediction)
+[![BHARATH FARMER CONSULTANCY](https://github.com/RAKESHKUMARPUDI/India-Farmer-Consultancy/blob/master/static/kisan.jpg)]([https://github.com/RAKESHKUMARPUDI/Crop_P](https://github.com/RAKESHKUMARPUDI/India-Farmer-Consultancy))
 
 ## Features
   - Around 23 commodities(including all kind of crops) crop value forecasting
@@ -28,10 +28,10 @@ $ pip install -r requirements.txt$ python app.py
 ```
 
 ## Screenshots
-[![BHARATH FARMER CONSULTANCY](https://github.com/rahuldkjain/Crop_Prediction/blob/master/static/Screenshot%20(24).png)](https://github.com/RAKESHKUMARPUDI/Crop_Prediction)
-[![BHARATH FARMER CONSULTANCY](https://github.com/rahuldkjain/Crop_Prediction/blob/master/static/Screenshot%20(25).png)](https://github.com/RAKESHKUMARPUDI/Crop_Prediction)
-[![BHARATH FARMER CONSULTANCY](https://github.com/rahuldkjain/Crop_Prediction/blob/master/static/Screenshot%20(26).png)](https://github.com/RAKESHKUMARPUDI/Crop_Prediction)
-[![BHARATH FARMER CONSULTANCY](https://github.com/rahuldkjain/Crop_Prediction/blob/master/static/Screenshot%20(27).png)](https://github.com/RAKESHKUMARPUDI/Crop_Prediction)
+[![BHARATH FARMER CONSULTANCY](https://github.com/rahuldkjain/Crop_Prediction/blob/master/static/Screenshot%20(24).png)](https://github.com/RAKESHKUMARPUDI/India-Farmer-Consultancy)
+[![BHARATH FARMER CONSULTANCY](https://github.com/rahuldkjain/Crop_Prediction/blob/master/static/Screenshot%20(25).png)](https://github.com/RAKESHKUMARPUDI/India-Farmer-Consultancy)
+[![BHARATH FARMER CONSULTANCY](https://github.com/rahuldkjain/Crop_Prediction/blob/master/static/Screenshot%20(26).png)](https://github.com/RAKESHKUMARPUDI/India-Farmer-Consultancy)
+[![BHARATH FARMER CONSULTANCY](https://github.com/rahuldkjain/Crop_Prediction/blob/master/static/Screenshot%20(27).png)](https://github.com/RAKESHKUMARPUDI/India-Farmer-Consultancy)
 
 ## Designed & Developed with :sparkling_heart: by
 - K SAI KUMAR
