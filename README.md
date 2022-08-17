@@ -1,4 +1,4 @@
-# BHARATH FARMER CONSULTANCY (Crop_Prediction)
+# BHARATH FARMER CONSULTANCY (WE PREDICT YOUR CROP)
 [![BHARATH FARMER CONSULTANCY](https://github.com/RAKESHKUMARPUDI/India-Farmer-Consultancy/blob/master/static/kisan.jpg)](https://github.com/RAKESHKUMARPUDI/India-Farmer-Consultancy)
 
 ## Features
