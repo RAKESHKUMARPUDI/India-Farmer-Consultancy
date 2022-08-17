@@ -1,5 +1,5 @@
 # BHARATH FARMER CONSULTANCY (Crop_Prediction)
-[![BHARATH FARMER CONSULTANCY](https://github.com/RAKESHKUMARPUDI/India-Farmer-Consultancy/blob/master/static/kisan.jpg](https://github.com/RAKESHKUMARPUDI/Crop_Prediction)
+[![BHARATH FARMER CONSULTANCY](https://github.com/RAKESHKUMARPUDI/India-Farmer-Consultancy/blob/master/static/kisan.jpg)](https://github.com/RAKESHKUMARPUDI/Crop_Prediction)
 
 ## Features
   - Around 23 commodities(including all kind of crops) crop value forecasting
@@ -24,8 +24,7 @@ To install and run this webapp, you will need [Python(3.0 or above)](https://www
 ```sh
 $ git clone https://github.com/RAKESHKUMARPUDI/Crop_Prediction.git
 $ cd Crop_Prediction
-$ pip install -r requirements.txt
-$ python app.py
+$ pip install -r requirements.txt$ python app.py
 ```
 
 ## Screenshots
