@@ -28,7 +28,7 @@ $ pip install -r requirements.txt$ python app.py
 ```
 
 ## Screenshots
-[![BHARATH FARMER CONSULTANCY](https://github.com/rahuldkjain/Crop_Prediction/blob/master/static/Screenshot%20(24).png)](https://github.com/RAKESHKUMARPUDI/India-Farmer-Consultancy)
+[![BHARATH FARMER CONSULTANCY](https://github.com/RAKESHKUMARPUDI/India-Farmer-Consultancy/blob/master/static/Screenshot%20(24).png)](https://github.com/RAKESHKUMARPUDI/India-Farmer-Consultancy)
 [![BHARATH FARMER CONSULTANCY](https://github.com/rahuldkjain/Crop_Prediction/blob/master/static/Screenshot%20(25).png)](https://github.com/RAKESHKUMARPUDI/India-Farmer-Consultancy)
 [![BHARATH FARMER CONSULTANCY](https://github.com/rahuldkjain/Crop_Prediction/blob/master/static/Screenshot%20(26).png)](https://github.com/RAKESHKUMARPUDI/India-Farmer-Consultancy)
 [![BHARATH FARMER CONSULTANCY](https://github.com/rahuldkjain/Crop_Prediction/blob/master/static/Screenshot%20(27).png)](https://github.com/RAKESHKUMARPUDI/India-Farmer-Consultancy)
