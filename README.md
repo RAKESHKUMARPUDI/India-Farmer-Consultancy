@@ -1,5 +1,5 @@
 # BHARATH FARMER CONSULTANCY (Crop_Prediction)
-[![BHARATH FARMER CONSULTANCY](https://github.com/RAKESHKUMARPUDI/India-Farmer-Consultancy/static/kisan.jpg)](https://github.com/RAKESHKUMARPUDI/Crop_Prediction)
+[![BHARATH FARMER CONSULTANCY](https://github.com/RAKESHKUMARPUDI/India-Farmer-Consultancy/master/static/kisan.jpg)](https://github.com/RAKESHKUMARPUDI/Crop_Prediction)
 
 ## Features
   - Around 23 commodities(including all kind of crops) crop value forecasting
