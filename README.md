@@ -1,5 +1,5 @@
 # BHARATH FARMER CONSULTANCY (Crop_Prediction)
-[![ApnaAnaaj](https://github.com/rahuldkjain/Crop_Prediction/blob/master/static/ApnaAnaajLogo.png)](https://github.com/rahuldkjain/Crop_Prediction)
+[![BHARATH FARMER CONSULTANCY](https://github.com/rahuldkjain/Crop_Prediction/blob/master/static/kisan.jpg)](https://github.com/RAKESHKUMARPUDI/Crop_Prediction)
 
 ## Features
   - Around 23 commodities(including all kind of crops) crop value forecasting
@@ -29,13 +29,10 @@ $ python app.py
 ```
 
 ## Screenshots
-[![ApnaAnaaj](https://github.com/rahuldkjain/Crop_Prediction/blob/master/static/Screenshot%20(24).png)](https://github.com/rahuldkjain/Crop_Prediction)
-[![ApnaAnaaj](https://github.com/rahuldkjain/Crop_Prediction/blob/master/static/Screenshot%20(25).png)](https://github.com/rahuldkjain/Crop_Prediction)
-[![ApnaAnaaj](https://github.com/rahuldkjain/Crop_Prediction/blob/master/static/Screenshot%20(26).png)](https://github.com/rahuldkjain/Crop_Prediction)
-[![ApnaAnaaj](https://github.com/rahuldkjain/Crop_Prediction/blob/master/static/Screenshot%20(27).png)](https://github.com/rahuldkjain/Crop_Prediction)
-
-## Video Demonstration
-[BHARATH FARMER CONSULTANCY](https://youtu.be/UahZf4VaCTE)
+[![BHARATH FARMER CONSULTANCY](https://github.com/rahuldkjain/Crop_Prediction/blob/master/static/Screenshot%20(24).png)](https://github.com/RAKESHKUMARPUDI/Crop_Prediction)
+[![BHARATH FARMER CONSULTANCY](https://github.com/rahuldkjain/Crop_Prediction/blob/master/static/Screenshot%20(25).png)](https://github.com/RAKESHKUMARPUDI/Crop_Prediction)
+[![BHARATH FARMER CONSULTANCY](https://github.com/rahuldkjain/Crop_Prediction/blob/master/static/Screenshot%20(26).png)](https://github.com/RAKESHKUMARPUDI/Crop_Prediction)
+[![BHARATH FARMER CONSULTANCY](https://github.com/rahuldkjain/Crop_Prediction/blob/master/static/Screenshot%20(27).png)](https://github.com/RAKESHKUMARPUDI/Crop_Prediction)
 
 ## Designed & Developed with :sparkling_heart: by
 - K SAI KUMAR
